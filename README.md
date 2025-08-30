@@ -25,7 +25,7 @@ Connect LED to digital pin 13 (with a resistor if required).
 Common ground for all connections.
 
 circuit diagram:
-![flex Sensor Circuit Diagram](flex%20sensor.jpg)
+![Flex Sensor](flex%20sensor.jpg)
  
 Simple Flow:
 Flex Sensor ➝ Arduino Analog Input ➝ Compare Value ➝ LED ON/OFF
